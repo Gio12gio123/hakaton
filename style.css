@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+
+
+.btn{
+    border: none;
+    border-radius: 18px;
+    color: rgb(37, 179, 132);
+}
+
+.btn:hover{
+    background-color: rgb(156, 98, 211);
+}
+
+.btn{
+    width: 100px;
+    height: 60px;
+    background: whitesmoke;
+    transition: width 2s;
+}
+
